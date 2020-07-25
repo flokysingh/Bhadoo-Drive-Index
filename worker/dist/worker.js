@@ -1,5 +1,5 @@
 self.props = {
-	title: 'Google Drive Index',
+	title: 'floki index',
 	default_root_id: 'root',
 	client_id: '58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com',
 	client_secret: 'ZNPZ-vS6N9Zjsyb_sNMZmXHL',

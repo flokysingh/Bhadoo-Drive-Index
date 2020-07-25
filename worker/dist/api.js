@@ -1,5 +1,5 @@
 const authConfig = {
-  "siteName": "Bhadoo Cloud GoIndex", // Website name
+  "siteName": "floki", // Website name
   "version": "1.1", // Program Version. Users do not modify manually
   "client_id": "58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com",
   "client_secret": "ZNPZ-vS6N9Zjsyb_sNMZmXHL",
